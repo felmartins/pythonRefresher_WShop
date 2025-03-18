@@ -1,4 +1,5 @@
-# Setting Up Python and Jupyter Notebooks - A Beginner's Guide
+# Setting Up Python and Jupyter Notebooks
+CREDIT: A good portion of the content of this workshop is adapted from the previous work of [@Indiiigo](https://github.com/Indiiigo). All credits should be given to her, as she has done a great job of putting this together. I only condensed the material into a single source.
 
 ## What are Jupyter Notebooks?
 
