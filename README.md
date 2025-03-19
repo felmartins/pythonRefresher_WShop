@@ -20,31 +20,35 @@ For this tutorial series, Jupyter Notebooks allow you to read the explanations, 
 
 ## Installing Python
 
-1. **Download Python:**
+1. **Install Anaconda** (includes Python, Jupyter, and many scientific packages):
+   - Recommended for beginners and data science work
+   - Go to [anaconda.com/products/distribution](https://anaconda.com/products/distribution)
+   - Download and install Anaconda for your operating system
+   - This includes Python and Jupyter Notebooks in one complete package
+
+2. **Alternative: Direct Python Installation:**
    - Go to [python.org/downloads](https://python.org/downloads)
    - Click the "Download Python" button for the latest version
    - Important: Check the box "Add Python to PATH" during installation
 
-2. **Verify Installation:**
+3. **Verify Installation:**
    - Open Command Prompt (Windows) or Terminal (Mac/Linux)
    - Type `python --version` and press Enter
    - You should see the Python version number if installation was successful
 
 ## Installing Jupyter Notebooks
 
-1. **Install using pip** (Python's package manager):
+1. **If you installed Anaconda:**
+   - Jupyter is already installed and ready to use
+   - You can launch it from the Anaconda Navigator or command line
+
+2. **If you installed Python directly, install Jupyter using pip** (Python's package manager):
    - Open Command Prompt (Windows) or Terminal (Mac/Linux)
    - Type the following command and press Enter:
      ```
      pip install notebook
      ```
    - Wait for the installation to complete
-
-2. **Alternative: Install Anaconda** (includes Python, Jupyter, and many scientific packages):
-   - If you're new to programming, this might be easier
-   - Go to [anaconda.com/products/distribution](https://anaconda.com/products/distribution)
-   - Download and install Anaconda for your operating system
-   - This includes Python and Jupyter Notebooks in one package
 
 ## Understanding the Jupyter Interface
 
